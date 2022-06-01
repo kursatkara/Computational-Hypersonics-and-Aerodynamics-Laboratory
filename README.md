@@ -1,4 +1,4 @@
-# Computational Aerodynamics and Hypersonics Laboratory
+# KARA Lab at OSU
 
 Computational Fluid Dynamics (CFD) codes developed in the KARA Lab at OSU.
 
