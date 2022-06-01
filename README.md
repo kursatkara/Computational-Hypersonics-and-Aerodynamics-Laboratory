@@ -1,8 +1,6 @@
-# Kara Aerodynamics ReseArch Laboratory at OSU 
-# (KARA Lab at OSU)
+# Kara Aerodynamics ReseArch Laboratory
 
-Computational Fluid Dynamics (CFD) codes developed in the KARA Lab at OSU.
-
+Computational Fluid Dynamics (CFD) codes developed in the KARA Lab.
 
 001-Compressible_Similarity_Fehlberg_Interactive.jl (Compressible Falkner-Skan coupled with Energy Equation);
 
