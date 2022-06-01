@@ -1,6 +1,4 @@
-# Kara Aerodynamics ReseArch Laboratory
-
-Computational Fluid Dynamics (CFD) codes developed in the KARA Lab.
+# We developed CFD codes using the Julia language in the KARA Lab.
 
 001-Compressible_Similarity_Fehlberg_Interactive.jl (Compressible Falkner-Skan coupled with Energy Equation);
 
