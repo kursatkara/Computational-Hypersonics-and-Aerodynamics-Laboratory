@@ -1,4 +1,5 @@
-# Kara Aerodynamics ReseArch Laboratory at Oklahoma State University (KARA Lab at OSU)
+# Kara Aerodynamics ReseArch Laboratory at OSU 
+# (KARA Lab at OSU)
 
 Computational Fluid Dynamics (CFD) codes developed in the KARA Lab at OSU.
 
